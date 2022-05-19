@@ -1,0 +1,14 @@
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\bin\Debug\RezervareCameraHotel.exe.config
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\bin\Debug\RezervareCameraHotel.exe
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\bin\Debug\RezervareCameraHotel.pdb
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.csproj.AssemblyReference.cache
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.Properties.Resources.resources
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.csproj.GenerateResource.cache
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.csproj.CoreCompileInputs.cache
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.exe
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.pdb
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.Clienti.resources
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.Camere.resources
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.FStart.resources
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.Rezervari.resources
+C:\Users\rosem\source\repos\RezervareCameraHotel\RezervareCameraHotel\obj\Debug\RezervareCameraHotel.FRezervariAct.resources
